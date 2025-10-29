@@ -1,0 +1,3 @@
+# SINGLE: a soron következő sikertelen → NEM próbálja a másikat
+GT4500,1,1.0,2,0
+TORPEDO,SINGLE

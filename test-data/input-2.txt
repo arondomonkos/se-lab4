@@ -1,0 +1,4 @@
+# SINGLE: váltakozás – második lövés
+GT4500,3,0,3,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

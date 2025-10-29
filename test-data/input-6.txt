@@ -1,0 +1,3 @@
+# ALL: egyik üres, a másik sikeres → összeredmény true
+GT4500,0,0,1,0
+TORPEDO,ALL
